@@ -31,6 +31,14 @@ hr.tiny {
   margin-top: 30px;
 }
 
+.first-headline {
+  margin-top: 50px;
+}
+
+.blog-post {
+  margin-bottom:150px;
+}
+
 .github {
   text-align: center;
 }
